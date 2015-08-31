@@ -1,0 +1,11 @@
+package de.keineantwort.test.inherit;
+
+public class A {
+	public void a() {
+		this.aq("A");
+	}
+	
+	public void aq(String from) {
+		System.out.println("Hi, I'm from " + from);
+	}
+}

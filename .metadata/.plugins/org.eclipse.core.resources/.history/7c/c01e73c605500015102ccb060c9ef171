@@ -1,0 +1,5 @@
+package de.keineantwort.test.inherit;
+
+public class B {
+
+}
